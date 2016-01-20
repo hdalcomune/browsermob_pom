@@ -13,3 +13,6 @@ The following execution variables can be used:
 * PROXY - Set as true if you're using browsermob proxy to test
 * PROXY_PATH - Inform the path of browsermob binary file in your OS
 * BROWSER(Optional) - Use firefox, chrome or ie. Firefox is the default option
+
+### Browsermob installation ###
+Browsermob is on this, just unzip it somewhere in your system. On mac it can be also installed from 'brew' app manager.
